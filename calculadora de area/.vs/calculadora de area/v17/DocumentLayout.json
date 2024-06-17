@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\Reto 3 C#\\calculadora de area\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35DD69BA-FDD4-45B7-A81F-B787FB4003DF}|calculadora de area\\calculadora de area.csproj|c:\\users\\angel\\desktop\\reto 3 c#\\calculadora de area\\calculadora de area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DD69BA-FDD4-45B7-A81F-B787FB4003DF}|calculadora de area\\calculadora de area.csproj|solutionrelative:calculadora de area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Reto 3 C#\\calculadora de area\\calculadora de area\\Program.cs",
+              "RelativeDocumentMoniker": "calculadora de area\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Reto 3 C#\\calculadora de area\\calculadora de area\\Program.cs",
+              "RelativeToolTip": "calculadora de area\\Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:19:28.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

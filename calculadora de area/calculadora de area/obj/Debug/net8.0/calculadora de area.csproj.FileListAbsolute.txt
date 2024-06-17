@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\bin\Debug\net8.0\calculadora de area.exe
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\bin\Debug\net8.0\calculadora de area.deps.json
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\bin\Debug\net8.0\calculadora de area.runtimeconfig.json
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\bin\Debug\net8.0\calculadora de area.dll
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\bin\Debug\net8.0\calculadora de area.pdb
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\obj\Debug\net8.0\calculadora de area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\obj\Debug\net8.0\calculadora de area.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\obj\Debug\net8.0\calculadora de area.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\obj\Debug\net8.0\calculadora de area.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\obj\Debug\net8.0\calculadora de area.dll
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\obj\Debug\net8.0\refint\calculadora de area.dll
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\obj\Debug\net8.0\calculadora de area.pdb
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\obj\Debug\net8.0\calculadora de area.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Reto 3 C#\calculadora de area\calculadora de area\obj\Debug\net8.0\ref\calculadora de area.dll
