@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\bin\Debug\net8.0\funciones de analisis.exe
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\bin\Debug\net8.0\funciones de analisis.deps.json
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\bin\Debug\net8.0\funciones de analisis.runtimeconfig.json
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\bin\Debug\net8.0\funciones de analisis.dll
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\bin\Debug\net8.0\funciones de analisis.pdb
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\obj\Debug\net8.0\funciones de analisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\obj\Debug\net8.0\funciones de analisis.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\obj\Debug\net8.0\funciones de analisis.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\obj\Debug\net8.0\funciones de analisis.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\obj\Debug\net8.0\funciones de analisis.dll
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\obj\Debug\net8.0\refint\funciones de analisis.dll
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\obj\Debug\net8.0\funciones de analisis.pdb
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\obj\Debug\net8.0\funciones de analisis.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de analisis\funciones de analisis\obj\Debug\net8.0\ref\funciones de analisis.dll
