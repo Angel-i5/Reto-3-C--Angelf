@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "funciones de convercion/1.0.0": {
+        "runtime": {
+          "funciones de convercion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "funciones de convercion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

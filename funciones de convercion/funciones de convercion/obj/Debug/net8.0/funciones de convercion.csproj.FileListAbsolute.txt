@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\bin\Debug\net8.0\funciones de convercion.exe
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\bin\Debug\net8.0\funciones de convercion.deps.json
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\bin\Debug\net8.0\funciones de convercion.runtimeconfig.json
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\bin\Debug\net8.0\funciones de convercion.dll
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\bin\Debug\net8.0\funciones de convercion.pdb
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\obj\Debug\net8.0\funciones de convercion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\obj\Debug\net8.0\funciones de convercion.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\obj\Debug\net8.0\funciones de convercion.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\obj\Debug\net8.0\funciones de convercion.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\obj\Debug\net8.0\funciones de convercion.dll
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\obj\Debug\net8.0\refint\funciones de convercion.dll
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\obj\Debug\net8.0\funciones de convercion.pdb
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\obj\Debug\net8.0\funciones de convercion.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Reto 3 C# Angel Flores\funciones de convercion\funciones de convercion\obj\Debug\net8.0\ref\funciones de convercion.dll
